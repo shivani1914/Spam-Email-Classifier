@@ -3,8 +3,7 @@
 
 👉 **Try the application here:**
 
-https://YOUR-STREAMLIT-LINK.streamlit.app
-
+**https://spam-email-classifier-w4tc6taan2nywm4pw9mwxp.streamlit.app/**
 ---
 A Machine Learning project that classifies email or SMS messages as **Spam** or **Not Spam** using Natural Language Processing (NLP) and the Multinomial Naive Bayes algorithm.
 
